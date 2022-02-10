@@ -1,0 +1,17 @@
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.csproj.AssemblyReference.cache
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.AssemblyInfoInputs.cache
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.AssemblyInfo.cs
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.csproj.CoreCompileInputs.cache
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\APIDeslocamento.Application.deps.json
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\APIDeslocamento.Application.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\ref\APIDeslocamento.Application.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\APIDeslocamento.Application.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\APIDeslocamento.Data.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\APIDeslocamento.Domain.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\APIDeslocamento.Data.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.Application\bin\Debug\net6.0\APIDeslocamento.Domain.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.csproj.CopyComplete
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\ref\APIDeslocamento.Application.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Application\obj\Debug\net6.0\APIDeslocamento.Application.pdb

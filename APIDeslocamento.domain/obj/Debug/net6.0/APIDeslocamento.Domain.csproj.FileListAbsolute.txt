@@ -1,0 +1,12 @@
+D:\C#\APIDeslocamento\APIDeslocamento.domain\bin\Debug\net6.0\APIDeslocamento.Domain.deps.json
+D:\C#\APIDeslocamento\APIDeslocamento.domain\bin\Debug\net6.0\APIDeslocamento.Domain.dll
+D:\C#\APIDeslocamento\APIDeslocamento.domain\bin\Debug\net6.0\ref\APIDeslocamento.Domain.dll
+D:\C#\APIDeslocamento\APIDeslocamento.domain\bin\Debug\net6.0\APIDeslocamento.Domain.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\APIDeslocamento.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\APIDeslocamento.Domain.AssemblyInfoInputs.cache
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\APIDeslocamento.Domain.AssemblyInfo.cs
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\APIDeslocamento.Domain.csproj.CoreCompileInputs.cache
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\APIDeslocamento.Domain.dll
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\ref\APIDeslocamento.Domain.dll
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\APIDeslocamento.Domain.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.domain\obj\Debug\net6.0\APIDeslocamento.Domain.csproj.AssemblyReference.cache

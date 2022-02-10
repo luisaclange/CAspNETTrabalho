@@ -1,0 +1,17 @@
+D:\C#\APIDeslocamento\APIDeslocamento.Data\bin\Debug\net6.0\APIDeslocamento.Data.deps.json
+D:\C#\APIDeslocamento\APIDeslocamento.Data\bin\Debug\net6.0\APIDeslocamento.Data.runtimeconfig.json
+D:\C#\APIDeslocamento\APIDeslocamento.Data\bin\Debug\net6.0\APIDeslocamento.Data.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Data\bin\Debug\net6.0\ref\APIDeslocamento.Data.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Data\bin\Debug\net6.0\APIDeslocamento.Data.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.Data\bin\Debug\net6.0\APIDeslocamento.Domain.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Data\bin\Debug\net6.0\APIDeslocamento.Domain.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.csproj.AssemblyReference.cache
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.AssemblyInfoInputs.cache
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.AssemblyInfo.cs
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.csproj.CoreCompileInputs.cache
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.csproj.CopyComplete
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\ref\APIDeslocamento.Data.dll
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.pdb
+D:\C#\APIDeslocamento\APIDeslocamento.Data\obj\Debug\net6.0\APIDeslocamento.Data.genruntimeconfig.cache
